@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/grracki/greetings-ci/compare/v0.2.0...v0.3.0) (2022-11-14)
+
+
+### Features
+
+* version artifact ([c5395a9](https://github.com/grracki/greetings-ci/commit/c5395a933634914ae3fdeaa3a8687611fc023b81))
+
+
+
 # [0.2.0](https://github.com/grracki/greetings-ci/compare/v0.1.0...v0.2.0) (2022-11-14)
 
 
