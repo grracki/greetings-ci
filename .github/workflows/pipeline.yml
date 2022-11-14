@@ -41,5 +41,5 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
       with:
-      name: greetings-jar
-      path: build/libs
+        name: greetings-jar
+        path: build/libs
