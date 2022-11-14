@@ -1,18 +1,9 @@
-# [0.3.0](https://github.com/grracki/greetings-ci/compare/v0.2.0...v0.3.0) (2022-11-14)
+# [0.4.0](https://github.com/grracki/greetings-ci/compare/v0.1.0...v0.4.0) (2022-11-14)
 
 
 ### Features
 
-* version artifact ([c5395a9](https://github.com/grracki/greetings-ci/commit/c5395a933634914ae3fdeaa3a8687611fc023b81))
-
-
-
-# [0.2.0](https://github.com/grracki/greetings-ci/compare/v0.1.0...v0.2.0) (2022-11-14)
-
-
-### Features
-
-* upload artifact ([035b08f](https://github.com/grracki/greetings-ci/commit/035b08f718c1a08e29e2ed4a689ade6dbf89741d))
+* merge in artifact versioning ([3693a42](https://github.com/grracki/greetings-ci/commit/3693a42162e5b8bd7932a9c2c29225b27ebd36e8))
 
 
 
