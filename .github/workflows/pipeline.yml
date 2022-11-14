@@ -51,8 +51,7 @@ jobs:
       with:
         name: greetings-jar
         path: 
-          build/libs/
-          test-script.sh
+          build/libs
         
   test-run:
     runs-on: ubuntu-latest
