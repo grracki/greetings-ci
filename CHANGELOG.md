@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/grracki/greetings-ci/compare/v0.4.0...v0.5.0) (2022-11-14)
+
+
+### Features
+
+* add testing to pipeline ([478d17e](https://github.com/grracki/greetings-ci/commit/478d17ebd33ea6e6435f15ac1410af20a2bc89f7))
+
+
+
 # [0.4.0](https://github.com/grracki/greetings-ci/compare/v0.1.0...v0.4.0) (2022-11-14)
 
 
