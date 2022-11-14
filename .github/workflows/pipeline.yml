@@ -51,7 +51,7 @@ jobs:
       with:
         name: greetings-jar
         path: 
-          build/libs
+          build/libs/
           test-script.sh
         
   test-run:
