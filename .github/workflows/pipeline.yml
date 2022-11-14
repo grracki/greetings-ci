@@ -50,8 +50,10 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: greetings-jar
-        path: 
+        path: |
           build/libs
+          test-scripts.sh
+          
         
   test-run:
     runs-on: ubuntu-latest
